@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UniWien\\ImagesTrackingTrial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED71E5CE-EA06-81DB-A671-B84FF9BA9BDA}|Assembly-CSharp.csproj|d:\\uniwien\\imagestrackingtrial\\assets\\scripts\\ensureischild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED71E5CE-EA06-81DB-A671-B84FF9BA9BDA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ensureischild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED71E5CE-EA06-81DB-A671-B84FF9BA9BDA}|Assembly-CSharp.csproj|D:\\UniWien\\ImagesTrackingTrial\\assets\\scripts\\saveeyetrackingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED71E5CE-EA06-81DB-A671-B84FF9BA9BDA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saveeyetrackingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED71E5CE-EA06-81DB-A671-B84FF9BA9BDA}|Assembly-CSharp.csproj|D:\\UniWien\\ImagesTrackingTrial\\assets\\scripts\\getimagename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED71E5CE-EA06-81DB-A671-B84FF9BA9BDA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\getimagename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED71E5CE-EA06-81DB-A671-B84FF9BA9BDA}|Assembly-CSharp.csproj|D:\\UniWien\\ImagesTrackingTrial\\assets\\scripts\\getparentposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED71E5CE-EA06-81DB-A671-B84FF9BA9BDA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\getparentposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED71E5CE-EA06-81DB-A671-B84FF9BA9BDA}|Assembly-CSharp.csproj|D:\\UniWien\\ImagesTrackingTrial\\assets\\scripts\\fixedposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED71E5CE-EA06-81DB-A671-B84FF9BA9BDA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fixedposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61462D98-3ED8-1A9E-0D59-DF6520FF5641}|UnityEngine.XR.MagicLeap.csproj|D:\\UniWien\\ImagesTrackingTrial\\library\\packagecache\\com.unity.xr.magicleap@7.1.1\\runtime\\magicleapsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61462D98-3ED8-1A9E-0D59-DF6520FF5641}|UnityEngine.XR.MagicLeap.csproj|solutionrelative:library\\packagecache\\com.unity.xr.magicleap@7.1.1\\runtime\\magicleapsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED71E5CE-EA06-81DB-A671-B84FF9BA9BDA}|Assembly-CSharp.csproj|D:\\UniWien\\ImagesTrackingTrial\\assets\\scripts\\customhandlerimagechild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED71E5CE-EA06-81DB-A671-B84FF9BA9BDA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\customhandlerimagechild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED71E5CE-EA06-81DB-A671-B84FF9BA9BDA}|Assembly-CSharp.csproj|D:\\UniWien\\ImagesTrackingTrial\\assets\\scripts\\textvisibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED71E5CE-EA06-81DB-A671-B84FF9BA9BDA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\textvisibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED71E5CE-EA06-81DB-A671-B84FF9BA9BDA}|Assembly-CSharp.csproj|D:\\UniWien\\ImagesTrackingTrial\\assets\\scripts\\starteyetrackingwhenimagedetected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED71E5CE-EA06-81DB-A671-B84FF9BA9BDA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\starteyetrackingwhenimagedetected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED71E5CE-EA06-81DB-A671-B84FF9BA9BDA}|Assembly-CSharp.csproj|D:\\UniWien\\ImagesTrackingTrial\\assets\\scripts\\eyetracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED71E5CE-EA06-81DB-A671-B84FF9BA9BDA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\eyetracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED71E5CE-EA06-81DB-A671-B84FF9BA9BDA}|Assembly-CSharp.csproj|D:\\UniWien\\ImagesTrackingTrial\\assets\\scripts\\placefromcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED71E5CE-EA06-81DB-A671-B84FF9BA9BDA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\placefromcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnsureIsChild.cs",
+              "DocumentMoniker": "D:\\UniWien\\ImagesTrackingTrial\\Assets\\Scripts\\EnsureIsChild.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnsureIsChild.cs",
+              "ToolTip": "D:\\UniWien\\ImagesTrackingTrial\\Assets\\Scripts\\EnsureIsChild.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnsureIsChild.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:38:12.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MagicLeapSettings.cs",
+              "DocumentMoniker": "D:\\UniWien\\ImagesTrackingTrial\\Library\\PackageCache\\com.unity.xr.magicleap@7.1.1\\Runtime\\MagicLeapSettings.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.magicleap@7.1.1\\Runtime\\MagicLeapSettings.cs",
+              "ToolTip": "D:\\UniWien\\ImagesTrackingTrial\\Library\\PackageCache\\com.unity.xr.magicleap@7.1.1\\Runtime\\MagicLeapSettings.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.magicleap@7.1.1\\Runtime\\MagicLeapSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:01:53.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FixedPosition.cs",
+              "DocumentMoniker": "D:\\UniWien\\ImagesTrackingTrial\\Assets\\Scripts\\FixedPosition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FixedPosition.cs",
+              "ToolTip": "D:\\UniWien\\ImagesTrackingTrial\\Assets\\Scripts\\FixedPosition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FixedPosition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:10:48.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomHandlerImageChild.cs",
+              "DocumentMoniker": "D:\\UniWien\\ImagesTrackingTrial\\Assets\\Scripts\\CustomHandlerImageChild.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CustomHandlerImageChild.cs",
+              "ToolTip": "D:\\UniWien\\ImagesTrackingTrial\\Assets\\Scripts\\CustomHandlerImageChild.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CustomHandlerImageChild.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:52:41.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TextVisibility.cs",
+              "DocumentMoniker": "D:\\UniWien\\ImagesTrackingTrial\\Assets\\Scripts\\TextVisibility.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TextVisibility.cs",
+              "ToolTip": "D:\\UniWien\\ImagesTrackingTrial\\Assets\\Scripts\\TextVisibility.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TextVisibility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:51:54.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetImageName.cs",
+              "DocumentMoniker": "D:\\UniWien\\ImagesTrackingTrial\\Assets\\Scripts\\GetImageName.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GetImageName.cs",
+              "ToolTip": "D:\\UniWien\\ImagesTrackingTrial\\Assets\\Scripts\\GetImageName.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GetImageName.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:34:11.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StartEyeTrackingWhenImageDetected.cs",
+              "DocumentMoniker": "D:\\UniWien\\ImagesTrackingTrial\\Assets\\Scripts\\StartEyeTrackingWhenImageDetected.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartEyeTrackingWhenImageDetected.cs",
+              "ToolTip": "D:\\UniWien\\ImagesTrackingTrial\\Assets\\Scripts\\StartEyeTrackingWhenImageDetected.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartEyeTrackingWhenImageDetected.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:19:45.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetParentPosition.cs",
+              "DocumentMoniker": "D:\\UniWien\\ImagesTrackingTrial\\Assets\\Scripts\\GetParentPosition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GetParentPosition.cs",
+              "ToolTip": "D:\\UniWien\\ImagesTrackingTrial\\Assets\\Scripts\\GetParentPosition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GetParentPosition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:05:10.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaveEyeTrackingData.cs",
+              "DocumentMoniker": "D:\\UniWien\\ImagesTrackingTrial\\Assets\\Scripts\\SaveEyeTrackingData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveEyeTrackingData.cs",
+              "ToolTip": "D:\\UniWien\\ImagesTrackingTrial\\Assets\\Scripts\\SaveEyeTrackingData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveEyeTrackingData.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAIBQwDcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:14:02.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlaceFromCamera.cs",
+              "DocumentMoniker": "D:\\UniWien\\ImagesTrackingTrial\\Assets\\Scripts\\PlaceFromCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlaceFromCamera.cs",
+              "ToolTip": "D:\\UniWien\\ImagesTrackingTrial\\Assets\\Scripts\\PlaceFromCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlaceFromCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T13:55:21.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EyeTracking.cs",
+              "DocumentMoniker": "D:\\UniWien\\ImagesTrackingTrial\\Assets\\Scripts\\EyeTracking.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EyeTracking.cs",
+              "ToolTip": "D:\\UniWien\\ImagesTrackingTrial\\Assets\\Scripts\\EyeTracking.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EyeTracking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T13:54:32.779Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
